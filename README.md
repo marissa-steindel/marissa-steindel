@@ -1,6 +1,6 @@
 # 🤙 Greetings and Salutations!  
 
-My name is Marissa. <br><br>
+Hi, my name is Marissa. <br><br>
 I am an enthusiastic Junior Full Stack Web Developer seeking exciting opportunities to expand my abilities and drive innovative solutions. 
 <br><br>
 My skills include `JavaScript`, `PHP`, `Ruby on Rails`, `HTML`, `CSS`, `Java`, `PostgreSQL`, `React`, `Node.js`, `Requirements Gathering`, and `Project Management`.
