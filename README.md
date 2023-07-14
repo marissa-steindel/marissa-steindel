@@ -17,4 +17,7 @@ I worship ***elegant code*** and am deeply passionate about ***User Experience**
 **Quick Links**
 - 👩‍💼 [LinkedIn](https://www.linkedin.com/in/marissa-steindel/)
 - 🎨 [Portfolio](https://marissa-steindel.netlify.app/)
+<br><br>
 
+#
+[![Visits Badge](https://badges.pufler.dev/visits/marissa-steindel/marissa-steindel)](https://badges.pufler.dev)
