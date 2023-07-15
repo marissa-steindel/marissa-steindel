@@ -20,4 +20,6 @@ I worship ***elegant code*** and am deeply passionate about ***User Experience**
 <br><br>
 
 #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marissa-steindel&theme=tokyonight)
+
 [![Visits Badge](https://badges.pufler.dev/visits/marissa-steindel/marissa-steindel)](https://badges.pufler.dev)
