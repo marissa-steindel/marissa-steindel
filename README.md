@@ -8,9 +8,15 @@ My skills include `JavaScript`, `PHP`, `Ruby on Rails`, `HTML`, `CSS`, `Java`, `
 I worship ***elegant code*** and am deeply passionate about ***User Experience***. 
 <br><br>
 
-- 🔮 **Next Project:** CHOOSR 📽 - a web app to help families agree on what to watch for 'movie night'
+- 🔮 **Next Projects:**
+  - CourseNotes QuickRef 📚 - hyperlinks to course notes, instructions, and repos from my Diploma
+  - Where's the Mailbox? 📮 - app for locating the nearest mailbox
+  - CHOOSR 📽 - app to help families agree on what to watch for 'movie night'
 - 📜 **Past Life:** CAD Drafter of harvesting equipment 🚜, Neuroscientist 🧠
 - 🪁 **Hobbies:** Backcountry Canoeing 🛶, Synchronized Skating ⛸, Cooking 🥗, Photography 📸
+- 👩‍💻 **Levelling Up:** 
+  - Node.js
+  - MongoDB
  <br><br>
 
 
