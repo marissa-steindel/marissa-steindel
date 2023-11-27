@@ -9,7 +9,7 @@ I worship ***elegant code*** and am deeply passionate about ***User Experience**
 <br><br>
 
 - 🔮 **Next Projects:**
-  - CourseNotes QuickRef 📚 - hyperlinks to course notes, instructions, and repos from my Diploma
+  - CourseNotes QuickRef 📚 - imposing organization on the chaos by hyperlinking to course notes, instructions, and repos from my Diploma
   - Where's the Mailbox? 📮 - app for locating the nearest mailbox
   - CHOOSR 📽 - app to help families agree on what to watch for 'movie night'
 - 📜 **Past Life:** CAD Drafter of harvesting equipment 🚜, Neuroscientist 🧠
